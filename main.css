@@ -1,0 +1,42 @@
+body{
+    background-color: tomato;
+
+}
+h1{
+    color: navy;
+    margin-left: 20px;
+}
+
+#div1{
+    background-color: beige ;
+    border-style: groove;
+    width: 200px;
+    height: 100px;
+}
+#div2{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+/* #div3{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+#div4{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    left: 100px;
+    top: 500px;
+} */
